@@ -1,0 +1,10 @@
+let g:DatabaseTerminal_dbRunCom = 'mysql'
+let g:DatabaseTerminal_dbRunArgs = '-u root -p'
+let g:DatabaseTerminal_alwaysVsplit = 1
+let g:DatabaseTerminal_dontStop = 1
+let g:DatabaseTerminal_folder = '~/Documents/db_ad'
+let g:DatabaseTerminal_fileName = 'k017c1067篠原'
+let g:DatabaseTerminal_outputFormat = 'docx'
+let g:DatabaseTerminal_outputExtens = 'docx'
+let g:DatabaseTerminal_autodate = 1
+let g:DatabaseTerminal_autoOutput = 1
